@@ -1,0 +1,18 @@
+
+.jumbotron {
+    position: relative;
+    background: #000 url("https://s3-us-west-2.amazonaws.com/hypebeast-wordpress/image/2014/11/kyoto-guide-to-wabi-sabi-9.jpg?w=520") center center;
+    width: auto;
+    height: 810px;
+    background-size: cover;
+    color: black;
+  
+    padding-top: 200px;  
+}
+
+.social {
+  margin: auto;
+   width: 50%;
+   padding: 10px 10px;
+}
+
