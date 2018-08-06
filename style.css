@@ -5,14 +5,33 @@
     width: auto;
     height: 810px;
     background-size: cover;
-    color: black;
-  
-    padding-top: 200px;  
+    color: white;
+    padding-top: 200px; 
+      
 }
 
+
+
 .social {
-  margin: auto;
+   margin: auto;
    width: 50%;
    padding: 10px 10px;
+}
+
+.websites{
+  margin: auto;
+  width: 50%;
+  list-style: none;
+  padding: 50px;
+}
+
+.shaka{
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    
+  
 }
 
