@@ -11,7 +11,16 @@
       
 }
 
+/* ---- particles.js container ---- */
 
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 80%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
 
 .social {
    margin: auto;
