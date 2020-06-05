@@ -11,6 +11,25 @@
       
 }
 
+#headline{
+     text-align: center;
+    font: Helvetica; 
+    text-shadow: 5px 2px #ff0000;
+}
+
+#tagline{
+text-align: center;
+font: Helvetica; 
+text-shadow: 5px 2px #ff0000;
+}
+
+#welcome {
+     text-align: center;
+    font: Helvetica; 
+    text-shadow: 5px 2px #ff0000;
+}
+
+
 /* ---- particles.js container ---- */
 
 #particles-js {
