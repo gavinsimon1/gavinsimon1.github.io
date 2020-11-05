@@ -61,6 +61,10 @@ body{
   height: 21px;
 }
 
+#button{
+color: blue;
+}
+
 /* ---- Start media query ---- */
 
 @media only screen and (max-width: 600px){
