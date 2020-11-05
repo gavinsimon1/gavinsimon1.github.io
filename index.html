@@ -128,23 +128,18 @@
 <!--Contact-->
 <a name="contact"></a>
 <div class="container">
-	<h3>Contact Form</h3>
-	<form action="mailto:gavin.simon808@gmail.com" name="contact_form">
-		<label for="first_name">First Name</label>
-		<input name="first_name" type="text" required placeholder="John"/>
-		<br>
-		<label for="last_name">Last Name</label>
-		<input name="last_name" type="text" required placeholder="Doe"/>
-		<br>
-		<label for="email">Email</label>
-		<input name="email" type="email" required placeholder="you@domain.com"/>
-		<br>
-		<label for="message">Message</label><br>
-		<textarea name="message" cols="30" rows="10" placeholder="Enter your message here ..." required> </textarea>
-		<div class="center">
-			<input type="submit" value="Submit">
-		</div>
-	</form>	
+
+
+<form action="mailto:gavin.simon808@gmail.com" method="post" enctype="text/plain">
+Name:<br>
+<input type="text" name="name"><br>
+E-mail:<br>
+<input type="text" name="mail"><br>
+Comment:<br>
+<input type="text" name="comment" size="50"><br><br>
+<input type="submit" value="Send">
+<input type="reset" value="Reset">
+</form>
 </div>
 
 <div class="text-center">
