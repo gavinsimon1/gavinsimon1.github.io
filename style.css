@@ -1,10 +1,30 @@
 * {
   box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+ 
 }
 
 body{
   margin: 0;
   padding: 0;
+
+}
+
+h2{
+  line-height: 1.8;
+}
+
+h3{
+  line-height: 1.8;
+}
+
+a{
+  line-height: 1.8;
+}
+
+#form{
+  height: 100%;
+
 }
 
 .navbar {
@@ -63,6 +83,10 @@ body{
 
 #button{
 color: blue;
+}
+
+#certs{
+  margin-top: 10px;
 }
 
 /* ---- Start media query ---- */
@@ -144,19 +168,22 @@ text-shadow: 5px 2px #1a1919;
 
 #portfolio {
   text-align: center;
+ 
+}
+
+#about{
+  text-align: center;
+ 
+}
+
+#about-text {
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
 }
 
 
-/* ---- particles.js container ---- */
-
-#particles-js {
-  position: absolute;
-  width: 100%;
-  height: 80%;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: 50% 50%;
-}
 
 .social {
    margin: auto;
@@ -181,7 +208,37 @@ text-shadow: 5px 2px #1a1919;
   
 }
 
-#contact{
-padding: 10px;
+#services{
+  
+  padding-bottom: 50px;
 }
+
+#footer-menu{
+  margin: auto;
+  width: 50%;
+  list-style-type: none;
+  display: flex;
+  align-items: space-around;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#footer-menu li{
+  margin: auto;
+  padding-bottom: 30px;
+}
+
+
+/* ---- particles.js container ---- */
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 80%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+/* ---- particles.js container ---- */
 
