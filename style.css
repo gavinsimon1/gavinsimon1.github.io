@@ -230,7 +230,14 @@ text-shadow: 5px 2px #1a1919;
   padding-bottom: 30px;
 }
 
+/* ---- Blog Page ---- */
 
+#blog-description{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+/* ---- End Blog Page ---- */
 /* ---- particles.js container ---- */
 
 #particles-js {
