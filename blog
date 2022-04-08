@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<meta name="description" content="Gavin Simon's digital marketing blog.  I develop custom digital marketing campaigns, build/maintain websites & improve everything with analytics.">
+ <title>Gavin Simon's Digital Marketing Blog  - Hawaii Digital Marketing Specialist, Web Developer, Digital Ad Manager, SEO Strategist</title>
+
+
+  <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
+<link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css'>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.1/css/all.css" crossorigin="anonymous">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WNQQK7J');</script>
+<!-- End Google Tag Manager -->
+ </head>
+<body data-spy="scroll" data-target=".navbar" data-offset="50">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WNQQK7J"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+ 
+  <nav class="navbar">
+   <div class="brand-title"><a href="#">Gavin Simon</a></div>
+   <a href="#" class="toggle-button">
+     <span class="bar"></span>
+     <span class="bar"></span>
+     <span class="bar"></span>
+   </a>
+   <div class="navbar-links">
+     <ul>
+        <li><a href="/portfolio">Portfolio</a></li>
+       <li><a href="/about">About</a></li>
+       <li><a href="/services">Services</a></li>
+       <li><a href="/contact">Contact</a></li>
+     </ul>
+   </div>
+
+  </nav>
+
+
+  <!--Blog-->
+   
+      <div class="container fluid" id="about">
+  <id="about" class="container-fluid" text-align="center">
+      <a alt="about" name="about"><h1 class="Important" text-align="center">Gavin Simon's Digital Marketing Blog  - Hawaii Digital Marketing Specialist, Web Developer, Digital Ad Manager, SEO Strategist</h1></a>
+
+  <img class="shaka" src="https://avatars0.githubusercontent.com/u/17164037?v=4" alt="Gavin Simon picture">
+
+ </div> 
+
+<!--Contact-->
+<hr>
+<a id="contact" name="contact"> <h2 class="text-center" class="Important">CONTACT</h2></a>
+
+<div class="container" id="form">
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdA5rfqeRIAn7wvVYz-8w3eTd79nHXpinU2YlRGHvp6mDlOAw/viewform?embedded=true" width="640" height="812" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+</div>
+
+<div class="text-center">
+       <h3 class="text-center">Also Find Me At</h3>
+<h6 class="text-center">
+         <a class="text-center" alt="Free Code Camp" href="https://www.freecodecamp.org/gavinsimon1" target="_blank"><span class="fa fa-free-code-camp fa-2x">Free Code Camp</span></a>
+        <a  class="text-center" alt="Github" href="https://github.com/gavinsimon1" target=" _blank "><span class="fa fa-github fa-2x">Github</span></a>     
+      <a class="text-center" alt="Twitter" href="https://twitter.com/@gavinsimonsone" target="_blank" ><span class="fa fa-twitter fa-2x">Twitter</span></a>
+          <a class="text-center" alt="LinkedIn" href="https://www.linkedin.com/in/gavinsimon" target="_blank"><span class="fa fa-linkedin fa-2x">LinkedIn</span></a>
+        <a alt="Codepen" href="hhttps://codepen.io/gavinsimon1/" target="_blank"><span class="fa fa-codepen fa-2x">Codepen</span></a>
+          <a class="text-center" alt="Instagram" href="https://www.instagram.com/gavin.simon808/" target="_blank"><span class="fa fa-instagram fa-2x">Instagram</span></a>
+<h6>
+</div>
+
+     
+  <!--Footer-->
+  <footer>
+    <hr>
+    <div id="footer-menu">
+    <li><a href="#">Back To Top</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#portfolio">Portfolio</a></li>
+    <li><a href="#services">Services</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </div>
+ <p class="text-center">Website By Gavin Simon</br>Big Mahalo For Visiting </p>
+        </br>
+         </br>
+          </br>
+          </br>
+          </br>
+          
+  <script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "person",
+  "name": "Gavin Simon",
+  "jobTitle": "Digital Marketing, SEO and Web Development",
+  "url": "https://gavinsimon.com/",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Honolulu",
+    "addressRegion": "Hawaii",
+    "postalCode": "96815",
+    "addressCountry": "USA"
+  }
+}
+ </script>          
+                                                                                   
+   
+</div>
+
+</div>
+<script src="js/script.js" defer></script>
+<script src="js/particles.min.js"></script>
+<script src="js/app.js"></script>
+</body>                                                                                                                </body>
+</html>
