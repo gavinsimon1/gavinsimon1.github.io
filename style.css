@@ -232,7 +232,7 @@ text-shadow: 5px 2px #1a1919;
 
 /* ---- Blog Page ---- */
 
-#blog-description{
+.blog-description p{
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
 }
