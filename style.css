@@ -1,3 +1,12 @@
+/* ---- Blog Page ---- */
+
+.blog{
+  font-size: 3.5rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* ---- End Blog Page ---- */
+
 * {
   box-sizing: border-box;
   font-family: 'Lato', sans-serif;
@@ -230,14 +239,7 @@ text-shadow: 5px 2px #1a1919;
   padding-bottom: 30px;
 }
 
-/* ---- Blog Page ---- */
 
-.blog{
-  font-size: 3.5rem;
-  font-family: 'Montserrat', sans-serif;
-}
-
-/* ---- End Blog Page ---- */
 /* ---- particles.js container ---- */
 
 #particles-js {
