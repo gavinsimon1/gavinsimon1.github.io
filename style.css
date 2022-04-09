@@ -9,6 +9,11 @@
 
 /* ---- End Blog Page ---- */
 
+.hero-CTA{
+color: red;
+text-decoration: none;
+}
+
 * {
   box-sizing: border-box;
   font-family: 'Lato', sans-serif;
