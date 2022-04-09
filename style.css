@@ -2,6 +2,9 @@
 
 .blog{
   font-family: 'Montserrat', sans-serif;
+  padding: 1rem;
+  display: block;
+ 
 }
 
 /* ---- End Blog Page ---- */
