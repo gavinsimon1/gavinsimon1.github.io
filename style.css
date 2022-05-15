@@ -159,7 +159,7 @@ color: blue;
     background: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) url("https://images.unsplash.com/photo-1433086966358-54859d0ed716?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2787&q=80");
     width: auto;
     background-size: cover;
-    color: white;
+ 
     margin-top: 0;
     margin-bottom: 0px;
   
@@ -169,12 +169,14 @@ color: blue;
 #headline{
      text-align: center;
     font: Montserrat; 
+    text-color: white;
     
 }
 
 #tagline{
 text-align: center;
 font: Montserrat; 
+text-color: white;
 
 }
 
@@ -183,6 +185,7 @@ font: Montserrat;
     font: Montserrat; 
     background-color: #6c5b43; 
     text-decoration: none;
+    text-color: white;
    
 }
 
