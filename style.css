@@ -124,6 +124,12 @@ color: blue;
     background-color: white;
     border-radius: 10px;
   }
+  
+  #footer-menu{
+     width: 100%;
+    flex-direction: column;
+    text-align: center;
+  }
 
   .toggle-button {
     display: flex;
