@@ -127,8 +127,8 @@ color: blue;
   
   #footer-menu{
      width: 100%;
-    flex-direction: column;
-    text-align: center;
+     flex-direction: row;
+     text-align: center;
   }
 
   .toggle-button {
