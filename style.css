@@ -129,6 +129,7 @@ color: blue;
      width: 100%;
      flex-direction: row;
      text-align: center;
+     color: red;
   }
 
   .toggle-button {
