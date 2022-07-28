@@ -126,9 +126,7 @@ color: blue;
   }
   
   #footer-menu{
-    width: 100%;
-    flex-direction: column;
-    text-align: center;
+    display: none;
   }
 
   .toggle-button {
