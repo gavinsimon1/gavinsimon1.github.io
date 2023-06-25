@@ -116,12 +116,12 @@ color: blue;
 }
 
 /* ---- Start media query ---- */
-@media only screen and (max-width: 1600px) and (min-width: 601px){
+/* @media only screen and (max-width: 1600px) and (min-width: 601px){
   #footer-menu{
     width: 100%;
     flex-direction: column;
     text-align: center;
-  }
+  } */
 
 @media only screen and (max-width: 600px){
   .toggle-button .bar{
