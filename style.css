@@ -14,6 +14,11 @@
   height: 1px;
 }
 
+button.rest-btn.rest-btn-ig.rest-btn-primary{
+    display: none;
+    height: 1px;
+}
+
 .hero-CTA{
 color: red;
 text-decoration: none;
