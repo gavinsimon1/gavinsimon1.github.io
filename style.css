@@ -9,6 +9,10 @@
 
 /* ---- End Blog Page ---- */
 
+.ff-powered-img{
+  display: none;
+}
+
 .hero-CTA{
 color: red;
 text-decoration: none;
