@@ -11,6 +11,7 @@
 
 .ff-form .ff-powered-img img{
   display: none;
+  height: 1px;
 }
 
 .hero-CTA{
