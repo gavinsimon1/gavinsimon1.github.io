@@ -259,7 +259,6 @@ text-color: white;
 
 #footer-menu{
   margin: auto;
-  width: 50%;
   list-style-type: none;
   display: flex;
   align-items: space-around;
