@@ -276,6 +276,13 @@ text-color: white;
  font: Montserrat; 
 }
 
+.bold{
+  font-size: 20px;
+  font: Montserrat;
+  text-align: center;
+  text-decoration: underline;
+}
+
 .about{
   text-align: center;
  
