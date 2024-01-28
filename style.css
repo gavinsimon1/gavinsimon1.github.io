@@ -150,7 +150,7 @@ font-family: 'Montserrat', sans-serif;
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-   aspect-ratio: 1;
+ 
 }
 
 #button:focus {
