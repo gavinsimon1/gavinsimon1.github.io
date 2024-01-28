@@ -150,6 +150,7 @@ font-family: 'Montserrat', sans-serif;
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
+   aspect-ratio: 1;
 }
 
 #button:focus {
@@ -247,7 +248,7 @@ font-family: 'Montserrat', sans-serif;
     background-size: cover;
     margin-top: 0;
     margin-bottom: 0px;
-    aspect-ratio: 16 / 9;
+    aspect-ratio: 1;
 }
   
       
@@ -295,6 +296,7 @@ text-color: white;
 
 .about{
   text-align: center;
+   aspect-ratio: 1;
  
 }
 
