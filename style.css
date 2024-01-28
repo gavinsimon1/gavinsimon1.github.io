@@ -239,12 +239,7 @@ font-family: 'Montserrat', sans-serif;
   .navbar-links.active{
     display: flex;
   }
-  .jumbotron {
-      aspect-ratio: 1;
-  }
-  .bigP{
-      aspect-ratio: 1;
-  }
+
 }
 /* ---- End media query ---- */
 .jumbotron {
