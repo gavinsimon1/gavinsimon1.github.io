@@ -323,8 +323,8 @@ text-color: white;
 }
 
 .shaka{
-  height: 250px;
-  width: 250px;
+/*   height: 250px;
+  width: 250px; */
   display: block;
   margin-left: auto;
   margin-right: auto;
