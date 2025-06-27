@@ -204,8 +204,8 @@ font-family: 'Montserrat', sans-serif;
 @media only screen and (max-width: 600px){
 
   .intro-image{
-  height: 500px;
-  width: 500px;
+  height: 250px;
+  width: 250px;
 }
   .toggle-button .bar{
     height: 3px;
