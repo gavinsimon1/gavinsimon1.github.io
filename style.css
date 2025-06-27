@@ -178,6 +178,10 @@ font-family: 'Montserrat', sans-serif;
 }
 
 @media (min-width: 768px) {
+    .intro-image{
+  height: 500px;
+  width: 500px;
+}
   #button {
     padding: .75rem 3rem;
     font-size: 1.25rem;
