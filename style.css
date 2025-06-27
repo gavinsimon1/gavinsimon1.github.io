@@ -198,6 +198,11 @@ font-family: 'Montserrat', sans-serif;
   } */
 
 @media only screen and (max-width: 600px){
+
+  .intro-image{
+  height: 500px;
+  width: 500px;
+}
   .toggle-button .bar{
     height: 3px;
     width: 100%;
