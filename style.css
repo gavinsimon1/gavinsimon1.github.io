@@ -172,6 +172,11 @@ font-family: 'Montserrat', sans-serif;
   left: 2px;
 }
 
+.intro-image{
+  height: 500px;
+  width: 500px;
+}
+
 @media (min-width: 768px) {
   #button {
     padding: .75rem 3rem;
