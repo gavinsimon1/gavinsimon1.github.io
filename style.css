@@ -178,10 +178,7 @@ font-family: 'Montserrat', sans-serif;
 }
 
 @media (min-width: 768px) {
-    .intro-image{
-  height: 500px;
-  width: 500px;
-}
+
   #button {
     padding: .75rem 3rem;
     font-size: 1.25rem;
@@ -204,8 +201,8 @@ font-family: 'Montserrat', sans-serif;
 @media only screen and (max-width: 600px){
 
   .intro-image{
-  height: 250px;
-  width: 250px;
+  height: 150px;
+  width: 150px;
 }
   .toggle-button .bar{
     height: 3px;
