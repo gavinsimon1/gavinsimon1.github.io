@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Gavin Simon - Resume</title>
+</head>
+<body>
+
+    <header>
+        <h1>Gavin Simon</h1>
+        <p>
+            Honolulu, Hawaii | 
+            <a href="https://www.linkedin.com/in/gavinsimon">LinkedIn</a> | 
+            <a href="https://gavinsimon.com">gavinsimon.com</a>
+        </p>
+    </header>
+
+    <section id="summary">
+        <h2>Professional Summary</h2>
+        <p>Versatile and results-driven Full-Stack Digital Marketer with over 7 years experience in strategic digital campaigns, website development, SEO, and data analytics. Proven leadership in optimizing business operations and driving ROI through innovative solutions. Currently serving as Digital Operations Manager at digivortex, leading cross-functional teams to exceed client expectations.</p>
+    </section>
+
+    <section id="experience">
+        <h2>Professional Experience</h2>
+        
+        <div class="job">
+            <h3>digivortex – Honolulu, HI</h3>
+            <strong>Digital Operations</strong> | <em>Sep 2018 – Present</em>
+            <ul>
+                <li>Lead multi-platform digital advertising campaigns (Google Ads, YouTube, Facebook, LinkedIn, Yelp) across diverse industries, optimizing for ROI and conversion goals.</li>
+                <li>Plan, build, and optimize Google Ads campaigns across Search, Performance Max, and YouTube, managing bids, budgets, and creative to achieve revenue and Quality Score targets.</li>
+                <li>Spearhead SEO strategies, increasing client website organic impressions by 71% and clicks by 140%, while improving keyword rankings and domain authority.</li>
+                <li>Conduct on-page and technical SEO audits, implement fixes, and perform keyword research and content optimization to strengthen search performance.</li>
+                <li>Build, maintain, and optimize websites (WordPress, Shopify, Wix) for UX, SEO, and conversion performance; implement landing page improvements and A/B tests.</li>
+                <li>Design and optimize Google Tag Manager implementations and GA4 tracking for accurate conversion and event data across all client accounts.</li>
+                <li>Track website traffic, user behavior, and KPIs to deliver actionable insights through monthly reporting dashboards.</li>
+                <li>Collaborate cross-functionally with content, creative, and paid media teams to ensure cohesive messaging and aligned campaign goals.</li>
+                <li>Develop and maintain strategic blog and website content plans aligned with E-E-A-T principles.</li>
+                <li>Execute and measure conversion rate optimization (CRO) tactics — including A/B testing, landing page, and funnel improvements — to enhance user engagement.</li>
+                <li>Align SEO and paid media strategies to maximize digital marketing performance and maintain consistent brand messaging.</li>
+                <li>Stay current with SEO algorithm updates and emerging AI-driven search trends, proactively piloting new features to maintain competitive advantage.</li>
+            </ul>
+        </div>
+
+        <div class="job">
+            <strong>Comptroller</strong> | <em>Jun 2015 – Aug 2018</em>
+            <ul>
+                <li>Implemented financial controls, improving budget adherence by 20%.</li>
+                <li>Managed all HR functions and oversaw office operations.</li>
+                <li>Conducted profitability analysis and generated monthly financial reports.</li>
+                <li>Negotiated vendor contracts and tracked AP/AR across departments.</li>
+            </ul>
+        </div>
+
+        <div class="job">
+            <strong>Office Manager</strong> | <em>Jun 2015 – Mar 2016</em>
+            <ul>
+                <li>Streamlined accounts payable/receivable processes.</li>
+                <li>Assisted in drafting legal documents and managing HR-related compliance.</li>
+                <li>Supported media team with budget tracking and vendor coordination.</li>
+            </ul>
+        </div>
+
+        <div class="job">
+            <strong>Account Coordinator</strong> | <em>Apr 2014 – Jun 2015</em>
+            <ul>
+                <li>Coordinated with creative teams to ensure client goals were met on time and on brand.</li>
+                <li>Proofread sales materials and ensured consistency across marketing campaigns.</li>
+                <li>Assisted in invoice processing and managed meeting documentation.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <p><strong>University of Hawaii – Shidler College of Business</strong><br>
+        Master of Business Administration (MBA)<br>
+        JAIMS Certificate – Japan-Focused Management</p>
+        
+        <p><strong>Lewis & Clark College</strong><br>
+        Bachelor’s Degree</p>
+    </section>
+
+    <section id="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Google Ads (Search, Display, Video, Shopping)</li>
+            <li>Google Analytics</li>
+            <li>Google My Business</li>
+            <li>SEMrush SEO Toolkit Exam</li>
+            <li>Fundamentals of Digital Marketing</li>
+            <li>Responsive Web Design (freeCodeCamp)</li>
+            <li>JavaScript Algorithms & Data Structures</li>
+            <li>Shopify Business Fundamentals</li>
+            <li>AWS: Building Modern Python Applications</li>
+        </ul>
+    </section>
+
+    <section id="technical-skills">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li><strong>Digital Marketing:</strong> SEO (Ahrefs, SEMrush), Google Ads, Email Marketing (Mailchimp), Google Tag Manager, Google Analytics, Facebook Ads, LinkedIn Ads, A/B Testing</li>
+            <li><strong>Web Development:</strong> JavaScript, HTML, CSS, Sass, React.js, D3.js, Bootstrap, jQuery, Node.js, MongoDB</li>
+            <li><strong>CMS & E-commerce:</strong> WordPress, Shopify, Wix, SquareSpace</li>
+            <li><strong>Other Tools:</strong> Jira, Git, Netlify, Firebase</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Development Projects</h2>
+        <p><em>Code samples available on GitHub</em></p>
+        <ul>
+            <li>Movie Search App – API-integrated movie lookup tool</li>
+            <li>Todo App – Task manager with local storage</li>
+            <li>Notes App – Note-taking with CRUD functionality</li>
+            <li>Hangman Game – Vanilla JS browser game</li>
+            <li>Pomodoro Timer – Productivity timer</li>
+            <li>JavaScript Calculator – Fully functional calculator</li>
+            <li>Wikipedia Viewer – Wiki article search tool</li>
+            <li>Random Quote Generator – Random quotes with shareable UI</li>
+        </ul>
+    </section>
+
+    <section id="languages">
+        <h2>Languages</h2>
+        <ul>
+            <li>English (Fluent)</li>
+            <li>Japanese (Conversational)</li>
+        </ul>
+    </section>
+
+</body>
+</html>
